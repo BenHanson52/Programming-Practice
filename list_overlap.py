@@ -1,3 +1,9 @@
+#8/28 This program generates 2 lists, then identifies which
+#numbers the two lists share, and then it adds one instance
+#of that number to the final list and returns it. If there are
+#no matches then the user will be notified and the program
+#will terminate.
+
 import random
 
 def generate_lists():
